@@ -1,0 +1,11 @@
+The settings to connect a machine to the Algonquin College **ACSecure**
+wireless network are these:
+
+    Connection Name (SSID): ACSecure
+    Wireless Security: WPA & WPA2 Enterprise
+    Authentication: PEAP (Protected EAP)
+    CA certificate: none
+    PEAP version: automatic
+    Inner authentication: MSCHAPv2
+    Username: abcd0001       # use your own Algonquin network userid and password
+    Password: ************
